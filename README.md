@@ -18,7 +18,7 @@ This is a simple orbit simulation program written in C++ using the SDL2 library.
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/ignabelitzky/orbit-simulation.git
+    git clone https://github.com/perseus333/orbit-simulator.git
     cd orbit-simulation
     ```
 
@@ -53,6 +53,7 @@ This is a simple orbit simulation program written in C++ using the SDL2 library.
 ## Usage
 
 - The simulation will initialize a number of celestial bodies and display their movement in a window.
+- You can configure it in `src/include/params.hpp`.
 - You can close the window to exit the simulation.
 
 ## Contributing
